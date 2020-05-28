@@ -1,0 +1,6 @@
+use_frameworks!
+target 'DevFindAFarceSDKPodTwo_Tests' do
+  pod 'DevFindAFarceSDKPodTwo', :path => '../'
+  
+  
+end
